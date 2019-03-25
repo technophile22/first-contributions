@@ -417,6 +417,7 @@ Conor Shields (https://github.com/cshields236)
 - [Brett Langford](https://github.com/itsbett)
 - [Daniel Lawrence](https://github.com/danielplawrence)
 - Marc
+- Raghav Mangal
 - Michael Baramidze
 - [Rohit Kapoor](https://github.com/algo-circle)
 - [Will Yu](https://github.com/will7zero)
